@@ -2,7 +2,7 @@ print("Hello GitHub!")
 
 name = "Hosea"
 
-print(f"Welcome, {name}!")
+print(f"Welcome to the Coastal Intelligence Project, {name}!")
 
 print("This message is coming from my feature branch!")
 
